@@ -57,10 +57,42 @@ However, some **sensitive API credentials have been removed** for security reaso
 - Click **Save**.  
 
 ---
-
 ### 5️⃣ Update Info.plist
 
 Since API keys were removed, you need to **add your own custom URL scheme** from Firebase.  
 
-1. Run the app in Xcode.  
-   Firebase will throw an error like:  
+Copy the value (`app-1-XXXXXX`).  
+
+2. Update `Info.plist` in Xcode:  
+
+xml
+<key>CFBundleURLTypes</key>
+<array>
+ <dict>
+     <key>CFBundleURLSchemes</key>
+     <array>
+         <string>app-1-XXXXXX</string>
+     </array>
+ </dict>
+</array>
+
+👉 Replace app-1-XXXXXX with your actual Firebase-generated URL scheme.
+
+---
+### 6️⃣ Run the App on a Real Device
+
+⚠️ OTP Authentication DOES NOT work on simulators!
+	•	Connect your iPhone via USB.
+	•	Enable Developer Mode (Settings → Privacy & Security → Developer Mode).
+	•	Run the app from Xcode on your real device.
+
+⸻
+
+✅ What’s Already Set Up in This Template?
+	•	Complete Firebase Phone Authentication flow (Phone input, OTP verification, User login).
+	•	SwiftUI login screen with OTP input.
+	•	Push notification handling via AppDelegate.swift.
+	•	Pre-configured FirebaseAuth API calls.
+
+  
+
