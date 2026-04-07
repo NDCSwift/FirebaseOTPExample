@@ -1,1 +1,60 @@
-IyDwn5SQIEZpcmViYXNlIE9UUCBBdXRoZW50aWNhdGlvbgpBIFN3aWZ0VUkgdGVtcGxhdGUgZm9yIHBob25lIG51bWJlciBhdXRoZW50aWNhdGlvbiB1c2luZyBGaXJlYmFzZSBPVFAg4oCUIHJlYWR5IHRvIGNsb25lLCBjb25maWd1cmUsIGFuZCBydW4uCgotLS0KCiMjIPCfpJQgV2hhdCB0aGlzIGlzClRoaXMgcHJvamVjdCBkZW1vbnN0cmF0ZXMgaG93IHRvIGltcGxlbWVudCBwaG9uZSBudW1iZXIgc2lnbi1pbiB3aXRoIEZpcmViYXNlIEF1dGhlbnRpY2F0aW9uIGluIFN3aWZ0VUkuIEl0IHNob3dzIHRoZSBmdWxsIE9UUCBmbG93IGZyb20gZW50ZXJpbmcgYSBwaG9uZSBudW1iZXIgdG8gdmVyaWZ5aW5nIHRoZSBvbmUtdGltZSBjb2RlLiBBbGwgc2Vuc2l0aXZlIEFQSSBjcmVkZW50aWFscyBhcmUgcmVtb3ZlZCBzbyB5b3UgY2FuIHNhZmVseSB1c2UgdGhpcyBhcyBhIHN0YXJ0aW5nIHRlbXBsYXRlLgoKIyMg4pyFIFdoeSB5b3UnZCB1c2UgaXQKLSAqKkZpcmViYXNlIEF1dGggaW50ZWdyYXRpb24qKiDigJQgV2lyZXMgdXAgRmlyZWJhc2VBdXRoIHdpdGggYSBTd2lmdFVJIGxvZ2luIHNjcmVlbiBvdXQgb2YgdGhlIGJveAotICoqT1RQIHZlcmlmaWNhdGlvbiBmbG93Kiog4oCUIEhhbmRsZXMgcGhvbmUgaW5wdXQsIGNvZGUgc2VuZGluZywgYW5kIGNvZGUgY29uZmlybWF0aW9uIGVuZC10by1lbmQKLSAqKlB1c2ggbm90aWZpY2F0aW9uIHNldHVwKiog4oCUIEluY2x1ZGVzIEFwcERlbGVnYXRlIGNvbmZpZ3VyYXRpb24gZm9yIEFQTnMsIHdoaWNoIEZpcmViYXNlIE9UUCByZXF1aXJlcyBvbiBpT1MKCiMjIPCfk7ogV2F0Y2ggb24gWW91VHViZQpbIVtXYXRjaCBvbiBZb3VUdWJlXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1lvdVR1YmUtV2F0Y2glMjB0aGUlMjBUdXRvcmlhbC1yZWQ/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXlvdXR1YmUpXShodHRwczovL3lvdXR1YmUuY29tL3dhdGNoP3Y9UExBQ0VIT0xERVIpCgo+IFRoaXMgcHJvamVjdCB3YXMgYnVpbHQgZm9yIHRoZSBbTm9haERvZXNDb2RpbmcgWW91VHViZSBjaGFubmVsXShodHRwczovL3d3dy55b3V0dWJlLmNvbS9ATm9haERvZXNDb2Rpbmc5NykuCgotLS0KCiMjIPCfmoAgR2V0dGluZyBTdGFydGVkCgojIyMgMS4gQ2xvbmUgdGhlIFJlcG8KYGBgYmFzaApnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL05EQ1N3aWZ0L0ZpcmViYXNlT1RQRXhhbXBsZS5naXQKY2QgRmlyZWJhc2VPVFBFeGFtcGxlCmBgYAoKIyMjIDIuIE9wZW4gaW4gWGNvZGUKRG91YmxlLWNsaWNrIGBGaXJlYmFzZU9UUEV4YW1wbGUyLnhjb2RlcHJvamAuCgojIyMgMy4gU2V0IFlvdXIgRGV2ZWxvcG1lbnQgVGVhbQpJbiBYY29kZTogKipUQVJHRVQg4oaSIFNpZ25pbmcgJiBDYXBhYmlsaXRpZXMg4oaSIFRlYW0qKiDigJQgc2VsZWN0IHlvdXIgdGVhbS4KCiMjIyA0LiBVcGRhdGUgdGhlIEJ1bmRsZSBJZGVudGlmaWVyCkNoYW5nZSBgY29tLmV4YW1wbGUuTXlBcHBgIHRvIGEgdW5pcXVlIHJldmVyc2UtZG9tYWluIElEIChlLmcuLCBgY29tLnlvdXJuYW1lLkZpcmViYXNlT1RQYCkuCgojIyMgNS4gQWRkIEZpcmViYXNlCjEuIENyZWF0ZSBhIHByb2plY3QgYXQgW2NvbnNvbGUuZmlyZWJhc2UuZ29vZ2xlLmNvbV0oaHR0cHM6Ly9jb25zb2xlLmZpcmViYXNlLmdvb2dsZS5jb20pLCBhZGQgYW4gaU9TIGFwcCwgYW5kIGRvd25sb2FkIGBHb29nbGVTZXJ2aWNlLUluZm8ucGxpc3RgLgoyLiBEcmFnIGBHb29nbGVTZXJ2aWNlLUluZm8ucGxpc3RgIGludG8gdGhlIFhjb2RlIHByb2plY3Qgcm9vdCAobmV4dCB0byBgSW5mby5wbGlzdGApLiAqKkRvIG5vdCBjb21taXQgdGhpcyBmaWxlLioqCjMuIEluIFhjb2RlOiAqKkZpbGUg4oaSIEFkZCBQYWNrYWdlIERlcGVuZGVuY2llcyoqIOKGkiBgaHR0cHM6Ly9naXRodWIuY29tL2ZpcmViYXNlL2ZpcmViYXNlLWlvcy1zZGtgIOKGkiBpbnN0YWxsIGBGaXJlYmFzZUNvcmVgICYgYEZpcmViYXNlQXV0aGAuCgojIyMgNi4gQ29uZmlndXJlIEFQTnMKRmlyZWJhc2UgT1RQIHJlcXVpcmVzIHB1c2ggbm90aWZpY2F0aW9ucy4gVXBsb2FkIGFuIEFQTnMga2V5IChgLnA4YCkgaW4gKipGaXJlYmFzZSBDb25zb2xlIOKGkiBQcm9qZWN0IFNldHRpbmdzIOKGkiBDbG91ZCBNZXNzYWdpbmcqKi4KCiMjIyA3LiBSdW4gb24gYSBSZWFsIERldmljZQpPVFAgZG9lcyAqKm5vdCoqIHdvcmsgb24gdGhlIFNpbXVsYXRvci4gQ29ubmVjdCBhIHJlYWwgaVBob25lIGFuZCBydW4gZnJvbSBYY29kZS4KCiMjIPCfm6DvuI8gTm90ZXMKLSBOZXZlciBjb21taXQgYEdvb2dsZVNlcnZpY2UtSW5mby5wbGlzdGAg4oCUIGl0IGNvbnRhaW5zIHNlbnNpdGl2ZSBBUEkga2V5cy4KLSBVcGRhdGUgdGhlIGBDRkJ1bmRsZVVSTFNjaGVtZXNgIGVudHJ5IGluIGBJbmZvLnBsaXN0YCB3aXRoIHlvdXIgRmlyZWJhc2UtZ2VuZXJhdGVkIFVSTCBzY2hlbWUgKGBhcHAtMS1YWFhYWFhgKS4KLSBEZXZlbG9wZXIgTW9kZSBtdXN0IGJlIGVuYWJsZWQgb24geW91ciBkZXZpY2U6ICoqU2V0dGluZ3Mg4oaSIFByaXZhY3kgJiBTZWN1cml0eSDihpIgRGV2ZWxvcGVyIE1vZGUqKi4KCiMjIPCfk6YgUmVxdWlyZW1lbnRzCi0gWGNvZGUgMTUrCi0gaU9TIDE3KwotIEZpcmViYXNlIHByb2plY3Qgd2l0aCBQaG9uZSBBdXRoIGVuYWJsZWQKLSBSZWFsIGlPUyBkZXZpY2UgKFNpbXVsYXRvciBub3Qgc3VwcG9ydGVkIGZvciBPVFApCgrwn5O6IFtXYXRjaCB0aGUgZ3VpZGUgb24gWW91VHViZV0oaHR0cHM6Ly95b3V0dWJlLmNvbS93YXRjaD92PVBMQUNFSE9MREVSKQo=
+# 🔐 Firebase OTP Authentication
+A SwiftUI template for phone number authentication using Firebase OTP — ready to clone, configure, and run.
+
+---
+
+## 🤔 What this is
+This project demonstrates how to implement phone number sign-in with Firebase Authentication in SwiftUI. It shows the full OTP flow from entering a phone number to verifying the one-time code. All sensitive API credentials are removed so you can safely use this as a starting template.
+
+## ✅ Why you'd use it
+- **Firebase Auth integration** — Wires up FirebaseAuth with a SwiftUI login screen out of the box
+- **OTP verification flow** — Handles phone input, code sending, and code confirmation end-to-end
+- **Push notification setup** — Includes AppDelegate configuration for APNs, which Firebase OTP requires on iOS
+
+## 📺 Watch on YouTube
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/watch?v=PLACEHOLDER)
+
+> This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97).
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repo
+```bash
+git clone https://github.com/NDCSwift/FirebaseOTPExample.git
+cd FirebaseOTPExample
+```
+
+### 2. Open in Xcode
+Double-click `FirebaseOTPExample2.xcodeproj`.
+
+### 3. Set Your Development Team
+In Xcode: **TARGET → Signing & Capabilities → Team** — select your team.
+
+### 4. Update the Bundle Identifier
+Change `com.example.MyApp` to a unique reverse-domain ID (e.g., `com.yourname.FirebaseOTP`).
+
+### 5. Add Firebase
+1. Create a project at [console.firebase.google.com](https://console.firebase.google.com), add an iOS app, and download `GoogleService-Info.plist`.
+2. Drag `GoogleService-Info.plist` into the Xcode project root (next to `Info.plist`). **Do not commit this file.**
+3. In Xcode: **File → Add Package Dependencies** → `https://github.com/firebase/firebase-ios-sdk` → install `FirebaseCore` & `FirebaseAuth`.
+
+### 6. Configure APNs
+Firebase OTP requires push notifications. Upload an APNs key (`.p8`) in **Firebase Console → Project Settings → Cloud Messaging**.
+
+### 7. Run on a Real Device
+OTP does **not** work on the Simulator. Connect a real iPhone and run from Xcode.
+
+## 🛠️ Notes
+- Never commit `GoogleService-Info.plist` — it contains sensitive API keys.
+- Update the `CFBundleURLSchemes` entry in `Info.plist` with your Firebase-generated URL scheme (`app-1-XXXXXX`).
+- Developer Mode must be enabled on your device: **Settings → Privacy & Security → Developer Mode**.
+
+## 📦 Requirements
+- Xcode 15+
+- iOS 17+
+- Firebase project with Phone Auth enabled
+- Real iOS device (Simulator not supported for OTP)
+
+📺 [Watch the guide on YouTube](https://youtube.com/watch?v=PLACEHOLDER)
